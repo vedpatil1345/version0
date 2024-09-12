@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vedpatil1345.github.io/version1/static/css/main.e6c13ad2.css",
+    "main.js": "/vedpatil1345.github.io/version1/static/js/main.00b93cda.js",
+    "static/js/453.a1b387fe.chunk.js": "/vedpatil1345.github.io/version1/static/js/453.a1b387fe.chunk.js",
+    "index.html": "/vedpatil1345.github.io/version1/index.html",
+    "main.e6c13ad2.css.map": "/vedpatil1345.github.io/version1/static/css/main.e6c13ad2.css.map",
+    "main.00b93cda.js.map": "/vedpatil1345.github.io/version1/static/js/main.00b93cda.js.map",
+    "453.a1b387fe.chunk.js.map": "/vedpatil1345.github.io/version1/static/js/453.a1b387fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.00b93cda.js"
+  ]
+}
