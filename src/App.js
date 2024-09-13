@@ -64,7 +64,7 @@ export default function App() {
   return (
     <div>
       <header className="header">
-        <div>📚 Acme Inc</div>
+        <div></div>
         <nav>
           <a href="#">Features</a>
           <a href="#">Pricing</a>
@@ -103,7 +103,7 @@ export default function App() {
         </section>
 
         <section className="section">
-          <h2 className="section-title"style={{color:"--text-color"}}>Explore Categories</h2>
+          <h2 className="section-title"style={{color:"white"}}>Explore Categories</h2>
           <div className="card-grid">
             {categories.map((category, index) => (
               <div key={index} className="category-card">
@@ -141,7 +141,7 @@ export default function App() {
         </section>
 
         <section className="section">
-          <h2 className="section-title" style={{color:"--background-color"}}>Open Source Contributions</h2>
+          <h2 className="section-title" style={{color:"white"}}>Open Source Contributions</h2>
           <div className="card-grid">
             {openSourceProjects.map((project, index) => (
               <div key={index} className="open-source-card">

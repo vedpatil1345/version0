@@ -1,8 +1,8 @@
 {
-  "name": "version1",
-  "version": "0.1.0",
+  "name": "version0",
+  "version": "0.0.1",
   "private": true,
-  "homepage": "https://vedpatil1345.github.io/version1",
+  "homepage": "https://vedpatil1345.github.io/version0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
